@@ -1,2 +1,1 @@
-# Multimodal
-Multimodal AI projects using Generative AI, text, audio, and document processing.
+AI-powered multimodal document analyzer using Google Gemini for text extraction, summarization, Q&A, and audio generation.
